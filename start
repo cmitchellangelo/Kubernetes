@@ -1,6 +1,11 @@
 Install packages below first for master node:
 docker.io, kubelet, kubeadm, and kubectl
 
+Instructions on various ways of installing Kubernetes here:
+  https://kubernetes.io/docs/setup/
+Installation instructions specific to kubeadm can he found here: 
+  https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+
 
 
 
