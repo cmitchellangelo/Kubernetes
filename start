@@ -5,6 +5,7 @@ Instructions on various ways of installing Kubernetes here:
   https://kubernetes.io/docs/setup/
 Installation instructions specific to kubeadm can he found here: 
   https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+  https://kubernetes.io/docs/concepts/#kubernetes-objects
 
 
 
