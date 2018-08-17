@@ -1,0 +1,1 @@
+cat ~/.kube/config      <------List out contents you place in Jenkins under creds in dashboard, for Kubernetes after pluggin installation
